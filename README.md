@@ -7,23 +7,11 @@ This repository is for homework and course practice.
 
 ## Title: Engineering Mathematics Assignment
 
-### 2026/03/20 14:30 first edition (previous homework)
+### 2026/03/29 homework record
 
-Project name: C2 Engineering Mathematics 1
+Project name: [Homework.md](https://github.com/11424146/11424146HW/blob/main/Homework.md)
 
-Description: First homework version completed (PDF file).
-
-### 2026/03/22 13:08 second edition (previous homework)
-
-Project name: C3 Engineering Mathematics 1
-
-Description: Added handwritten solving process.
-
-### 2026/04/07 22:29 first edition (previous report)
-
-Project name: 0407Presentation
-
-Description: Midterm presentation first version.
+Description: Previous homework solutions (HW1).
 
 ### 2026/04/18 17:10 first edition
 
@@ -62,5 +50,6 @@ $$
 
 ## Files
 
+- [Homework.md](https://github.com/11424146/11424146HW/blob/main/Homework.md)
 - [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
 - [README.md](./README.md)
