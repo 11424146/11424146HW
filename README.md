@@ -9,13 +9,13 @@ This repository is for homework and course practice.
 
 ### 2026/04/18 17:10 first edition
 
-Project name: `題目二_降落傘終端速度_期中報告.md`
+Project name: [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
 
 Description: Midterm report for Topic 2 (simple English version).
 
 ### 2026/04/18 17:20 second edition
 
-Project name: `README.md`
+Project name: [README.md](./README.md)
 
 Description: Update README style and add report record.
 
@@ -44,5 +44,5 @@ $$
 
 ## Files
 
-- `題目二_降落傘終端速度_期中報告.md`
-- `README.md`
+- [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
+- [README.md](./README.md)
