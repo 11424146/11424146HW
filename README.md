@@ -25,6 +25,12 @@ Project name: [README.md](./README.md)
 
 Description: Update README style and add report record.
 
+### 2026/06/04 homework 2
+
+Project name: [Homework2_11424146.md](./Homework2_11424146.md)
+
+Description: HW2 — Laplace topic (2) and Fourier series topic (7), simple English.
+
 ## Topic 2 (Short Introduction)
 
 Topic: Terminal Velocity of a Parachute  
@@ -52,4 +58,5 @@ $$
 
 - [Homework.md](https://github.com/11424146/11424146HW/blob/main/Homework.md)
 - [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
+- [Homework2_11424146.md](./Homework2_11424146.md)
 - [README.md](./README.md)
