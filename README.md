@@ -17,7 +17,7 @@ Description: Previous homework solutions (HW1).
 
 Project name: [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
 
-Description: Midterm report for Topic 2 (simple English version).
+Description: Midterm report for Topic 2.
 
 ### 2026/04/18 17:20 second edition
 
@@ -29,7 +29,13 @@ Description: Update README style and add report record.
 
 Project name: [Homework2_11424146.md](./Homework2_11424146.md)
 
-Description: HW2 — Laplace topic (2) and Fourier series topic (7), simple English.
+Description: HW2 — Laplace topic (2) and Fourier series topic (7).
+
+### 2026/06/04 16:20 layout fix
+
+Project name: [Homework2_11424146.md](./Homework2_11424146.md)
+
+Description: Fix GitHub math display (`$$` blocks), match midterm report layout, rename file to English, update README links.
 
 ## Topic 2 (Short Introduction)
 
