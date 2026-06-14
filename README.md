@@ -37,9 +37,16 @@ Project name: [Homework2_11424146.md](./Homework2_11424146.md)
 
 Description: Fix GitHub math display (`$$` blocks), match midterm report layout, rename file to English, update README links.
 
+### 2026/06/14 final report
+
+Project name: [題目二_RLC電路暫態回應_期末報告.md](./題目二_RLC電路暫態回應_期末報告.md)
+
+Description: Final report for Topic 2 — RLC circuit transient response (Laplace transform).
+
 ## Topic 2 (Short Introduction)
 
-Topic: Terminal Velocity of a Parachute  
+### Midterm: Terminal Velocity of a Parachute
+
 Main idea: Speed goes up fast first, then slows down, and finally becomes almost constant.
 
 Main equation:
@@ -60,9 +67,26 @@ $$
 v_T=\frac{mg}{k}
 $$
 
+### Final Report: RLC Circuit Transient Response
+
+Main idea: After a DC step input, capacitor voltage rises smoothly to the source voltage with no oscillation (overdamped).
+
+Main equation:
+
+$$
+LC\frac{d^2u_C}{dt^2}+RC\frac{du_C}{dt}+u_C=U_s
+$$
+
+Solution:
+
+$$
+u_C(t)=12+(-4\sqrt3-6)e^{(-4+2\sqrt3)t}+(2\sqrt3-3)e^{(-4-2\sqrt3)t}
+$$
+
 ## Files
 
 - [Homework.md](https://github.com/11424146/11424146HW/blob/main/Homework.md)
 - [題目二_降落傘終端速度_期中報告.md](./題目二_降落傘終端速度_期中報告.md)
+- [題目二_RLC電路暫態回應_期末報告.md](./題目二_RLC電路暫態回應_期末報告.md)
 - [Homework2_11424146.md](./Homework2_11424146.md)
 - [README.md](./README.md)
